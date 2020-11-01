@@ -1,0 +1,2 @@
+# Corona-Tracker1
+This project which is a corona tracker tracks the total number of positive cases, total number of recovered cases, total number of death cases, and total active cases of a country. It tracks the current data and shows it on the interface. We have used Tkinter for the GUI of the project. To collect the data we have used web scrapping. We have used beautifulsoap module from bs4  When a user types the name of the country in the search bar and clicks the find button, the whole data regarding covid-19 in that country are displayed sequentially.
